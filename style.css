@@ -19,6 +19,7 @@ nav {
     font-size:x-large;
     font-family:"poppins", sans-serif;
     font-weight: bold;
+    cursor: pointer;
 }
 
 .c1 li {
@@ -74,6 +75,7 @@ nav {
     transform: translate(-50%);
     background:linear-gradient(135deg,red,blue 60%);
     margin-right: -35vh;
+    cursor: pointer;
 }
 
 nav button:hover {
@@ -224,6 +226,7 @@ nav.c7 {
     font-size: 23px;
     font-family: "poppins", sans-serif;
     color: white;
+    cursor: pointer;
 }
 
 .exe {
@@ -258,6 +261,7 @@ footer.newpart{
 
 ul li{
     list-style: none;
+    cursor: pointer;
 }
 
 .niche{
